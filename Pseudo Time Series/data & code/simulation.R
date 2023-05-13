@@ -1,3 +1,4 @@
+# simulation code for PTS construction
 ## Functions
 boot = function(x,y,t){ # bootstrap, choose start and end points
   n = nrow(x)
