@@ -1,10 +1,10 @@
-Slides and reports for PTS.
+# Slides and reports for PTS
 
 *pts.pdf*: summary of methods.
 
 *repo0416.pdf*: results of simulation.
 
-References
+### References
 
 [Magwene, P. M., Lizardi, P., & Kim, J. (2003). Reconstructing the temporal ordering of biological samples using microarray data. Bioinformatics, 19(7), 842-850.](https://academic.oup.com/bioinformatics/article/19/7/842/197339?login=false)
 
